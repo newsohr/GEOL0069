@@ -11,7 +11,7 @@ In addition, the echo classification is quantified against the ESA official clas
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The project is built on the notebook called Chapter1_Unsupervised_Learning_Methods.ipynb available on https://github.com/newsohr/GEOL0069/blob/main/Chapter1_Unsupervised_Learning_Methods.ipynb
+The project is built on the notebook called Chapter1_Unsupervised_Learning_Methods.ipynb available at https://github.com/newsohr/GEOL0069/blob/main/Chapter1_Unsupervised_Learning_Methods.ipynb
 <!-- ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -49,12 +49,12 @@ foobar.singularize('phenomena')
 
  USAGE EXAMPLES -->
 
-The notebook starts with an introduction of unsupervised machine learning methods including K-means and Gaussian Mixture Model (GMM). The code of two algorithms is then implemented to classify sea ice and lead based on Sentinel-2 optical data, which produces images similar to the following:
+The notebook starts with an introduction to unsupervised machine learning methods including K-means and Gaussian Mixture Model (GMM). The code of two algorithms is then implemented to classify sea ice and lead based on Sentinel-2 optical data, which produces images similar to the following:
 
 ![image](https://github.com/newsohr/GEOL0069/assets/152040156/549021e9-c887-4689-bf53-1b5ac3f8bb32)
 
 
-The second part is the classification of Sea ice and lead based on Sentinel-3 altimetry data. The plots involve the classification of echoes of sea ice and lead from ESA official data and the prediction of GMM. After that, the average of sea ice and leads classification is plotted with the standard deviation filled in.
+The second part is the classification of sea ice and leads based on Sentinel-3 altimetry data. The plots involve the classification of echoes of sea ice and lead from ESA official data and the prediction of GMM. After that, the average of sea ice and lead classification is plotted with the standard deviation filled in.
 
 In the end, a confusion matrix is computed to quantify the classifications of prediction against true values.
 
